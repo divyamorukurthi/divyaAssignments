@@ -1,0 +1,62 @@
+.fst{
+	font-family: 'Abril Fatface', 'cursive';
+	color: blue;
+	text-align: center;
+	}
+
+.fsbt a:hover{
+	color: red;
+text-decoration: underline;}
+
+.fsbt li{
+	margin-top: 10px;
+	display: inline;
+	float: right;
+	list-style: none;
+	text-decoration: none;}
+.fsbt a{
+	text-decoration: none;
+}
+
+header .fsbt ul{
+	text-decoration: none;
+	list-style: none;
+}	
+
+.main{
+font-family: 'Playball', 'cursive';
+background: lightblue;
+color:blue;}
+
+header{
+	margin-top:-5px;
+	position: fixed;
+	background-color: white;
+	padding-top: 15px;
+}
+.subsecond{
+	font-family: 'Playball', 'cursive';}
+.subsecond a{
+	text-decoration: none;
+	color:blue;
+}
+.subsecond a:hover{
+	color:red;
+}
+aside{
+		font-family: 'Playball', 'cursive';}
+	
+.subthird{
+	font-family: 'Playball', 'cursive';
+}
+
+.four1{
+	background: lightblue;
+	color:blue;
+
+	}
+
+.wrap{
+	border:2px solid black;
+
+}

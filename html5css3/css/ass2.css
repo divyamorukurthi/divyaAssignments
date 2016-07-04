@@ -1,0 +1,17 @@
+header{
+	background: blue;
+	text-align: center;
+	position: fixed;
+}
+.four1{
+	background: lightblue;
+	color:blue;
+
+	}
+
+
+
+.wrap{
+	border:2px solid black;
+	background-color: lightblue;
+}
